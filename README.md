@@ -38,5 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Selamat Datang Modul 1
 Praktikum PemWeb
 ini kalimat di branch penyelesaian konflik
-
-testing 
